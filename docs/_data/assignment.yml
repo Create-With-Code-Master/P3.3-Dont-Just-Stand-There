@@ -7,7 +7,7 @@ git-prev-branch:
 lesson:
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
-outcome:
+outcome: With the animations from the animator controller, the character will have 3 new animations that occur in 3 different game states. These states include running, jumping, and death, all of which transition smoothly and are timed to suit the game.
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides:
 # Name and URL of repository holding the starter code for this assignment.
